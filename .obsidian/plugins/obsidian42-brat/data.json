@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "Enveloppe/obsidian-enveloppe"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Enveloppe/obsidian-enveloppe",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}
