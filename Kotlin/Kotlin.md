@@ -4,7 +4,7 @@ share: true
 ## Why Kotlin
 1) Interoperability with java
 2) Readable
-3) Backend Dev - KTorr, Spring Boot
+3) Backend Dev - KTORR, Spring Boot
 4) Kotlin Multiplatform
 
 [[Hello World]]
